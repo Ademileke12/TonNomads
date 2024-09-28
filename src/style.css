@@ -273,10 +273,10 @@ h1.jo1{
     /* box-shadow: rgba(0, 0, 0, 0.2) 2px 4px 0px 0px; */
 }
 
-.jo1:hover{
+/* .jo1:hover{
     transform: scale(1.3,1.3);
     transition: 0.4s;
-}
+} */
 
 .rgt{
     color: rgb(224, 219, 219);
